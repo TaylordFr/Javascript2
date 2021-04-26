@@ -1,0 +1,69 @@
+.elso {
+    width: 500px;
+    height: 250px;
+}
+
+.masodik {
+    width: 600px;
+    height: 500px;
+}
+
+#input1 {
+    margin-left: 50px;
+    width: 250px;
+    height: 20px;
+}
+
+#add {
+    width: 80px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 80px;
+    background-color: white;
+    color: black;
+}
+
+#add:hover {
+    color: green;
+    background-color: black;
+    transition: 100ms;
+}
+
+#color-btn {
+    color: white;
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+    margin-left: 80px;
+    border: 2px solid black;
+    border-radius: 6px;
+    background-color: green;
+}
+
+.gen {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 70px;
+}
+s
+#del {
+    width: 80px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+    background-color: white;
+    color: black;
+}
+
+#del:hover {
+    color: red;
+    background-color: black;
+    transition: 200ms;
+}
+
+
+#input-text {          
+    margin-left: 30px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
